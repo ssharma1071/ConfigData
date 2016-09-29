@@ -1,1 +1,4 @@
-lucky-word:"Irsis","Chinese","india"
+lucky-word:
+  - Irish
+  - Chinese
+  - india
